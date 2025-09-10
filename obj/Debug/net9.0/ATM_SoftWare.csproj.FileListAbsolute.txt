@@ -1,0 +1,15 @@
+/Users/user/ATM_SoftWare/ATM_SoftWare/bin/Debug/net9.0/ATM_SoftWare
+/Users/user/ATM_SoftWare/ATM_SoftWare/bin/Debug/net9.0/ATM_SoftWare.deps.json
+/Users/user/ATM_SoftWare/ATM_SoftWare/bin/Debug/net9.0/ATM_SoftWare.runtimeconfig.json
+/Users/user/ATM_SoftWare/ATM_SoftWare/bin/Debug/net9.0/ATM_SoftWare.dll
+/Users/user/ATM_SoftWare/ATM_SoftWare/bin/Debug/net9.0/ATM_SoftWare.pdb
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.AssemblyInfoInputs.cache
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.AssemblyInfo.cs
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.csproj.CoreCompileInputs.cache
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.sourcelink.json
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.dll
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/refint/ATM_SoftWare.dll
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.pdb
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ATM_SoftWare.genruntimeconfig.cache
+/Users/user/ATM_SoftWare/ATM_SoftWare/obj/Debug/net9.0/ref/ATM_SoftWare.dll
